@@ -79,5 +79,8 @@ if can_factor:
 
 That it! Easy RSA challenge!
 
+## Alternative solution
+You also can use this [Integer Factorize website](https://www.alpertron.com.ar/ECM.HTM) to factorize large numbers!
+
 ## Flag
 > flag{just_g0tta_f@ct0rize_1t4536}
